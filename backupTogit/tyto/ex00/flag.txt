@@ -1,4 +1,1 @@
-fake: x.com/ihatetetris42
-real: x.com/liam_up2u
-place in picture: Cacarelhos
-phone: Xiaomi Redmi Note 8T
+x.com/ihatetetris42
